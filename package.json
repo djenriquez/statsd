@@ -24,7 +24,8 @@
     "node": ">=6"
   },
   "dependencies": {
-    "generic-pool": "2.2.0"
+    "generic-pool": "2.2.0",
+    "@newrelic/statsd-infra-backend": ">=1.0.2"
   },
   "devDependencies": {
     "nodeunit": "0.9.x",
